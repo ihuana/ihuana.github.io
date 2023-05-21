@@ -141,6 +141,7 @@ article p {
   margin: 2rem 0;
   line-height: 1.8;
   text-indent: 2em;
+  text-align: justify;
 }
 article .video-container {
   position: relative;
