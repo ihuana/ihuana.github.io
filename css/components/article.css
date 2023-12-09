@@ -85,6 +85,7 @@ article .featured-media img {
   max-width: 100%;
   height: auto;
   margin: 1rem auto;
+  border-radius: 1rem;
 }
 article .article-footer .pull-left {
   float: left;
@@ -140,8 +141,6 @@ article code {
 article p {
   margin: 2rem 0;
   line-height: 1.8;
-  text-indent: 2em;
-  text-align: justify;
 }
 article .video-container {
   position: relative;
