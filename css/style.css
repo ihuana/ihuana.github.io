@@ -606,7 +606,7 @@ article .featured-media img {
   max-width: 100%;
   height: auto;
   margin: 1rem auto;
-  border-radius: 1rem;
+  border-radius: 0.6rem;
 }
 article .article-footer .pull-left {
   float: left;
