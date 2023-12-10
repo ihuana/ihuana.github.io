@@ -454,7 +454,7 @@ body .blog {
 }
 body .blog .content {
   box-sizing: border-box;
-  max-width: 770px;
+  max-width: 700px;
   width: 100%;
   padding: 80px 10px 10px;
   margin: 0 auto;
@@ -606,6 +606,7 @@ article .featured-media img {
   max-width: 100%;
   height: auto;
   margin: 1rem auto;
+  border-radius: 1rem;
 }
 article .article-footer .pull-left {
   float: left;
@@ -661,7 +662,6 @@ article code {
 article p {
   margin: 2rem 0;
   line-height: 1.8;
-  text-indent: 2em;
 }
 article .video-container {
   position: relative;
