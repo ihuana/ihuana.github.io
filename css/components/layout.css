@@ -16,7 +16,7 @@ a {
 }
 body {
   background-color: #f7f7f7;
-  font-family: lxgw wenkai screen, serif;
+  font-family: sans;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   overflow-x: hidden;
